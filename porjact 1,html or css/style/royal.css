@@ -1,0 +1,59 @@
+h3{
+    position: relative;
+    left: 900px;
+    font-size: 30px;
+    text-shadow: 2px 2px white; 
+    box-shadow:0 0 20px seagreen; 
+    border-radius: 2%;
+}
+h3:hover{
+    border: 5px solid darkslategrey;
+    transform: scale(1,1);
+    background-color:wheat;
+}
+
+
+ body{
+    background-image: url("https://www.credr.com/blog/wp-content/uploads/2021/11/lino-lakes-9PnaLbcierE-unsplash-1536x1024.jpeg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 250px;
+}
+li{
+    display: inline-block;
+    padding: 25px;
+    font-weight: bolder;
+    position: relative;
+    font-size: 30px;
+    bottom: 125px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: mv boli;
+    
+}
+a:hover{
+    background-color:darkcyan;
+    text-shadow: 2px 2px white;
+    width:600px; 
+    border: 2px solid darkslategray;
+    box-shadow: 0 0 20px darkred ;
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 1000px;
+    bottom: 490px;
+    box-shadow: 0 0 30px firebrick;
+    border-radius: 60%;
+}
+img:hover{
+    rotate: 420deg;
+    transition-duration: 4s;
+}
+
+

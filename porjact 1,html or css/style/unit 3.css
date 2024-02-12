@@ -1,0 +1,81 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1621957670209-200b20d5776e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+     background-repeat: no-repeat;
+}
+h6{
+    border: 2.5px solid darkslategrey;
+    font-size: 30px;
+    width: 350px;
+    text-align: center;
+    position: relative;
+    left: 450px;
+    bottom: 10px;
+    color:dodgerblue;
+    background-color: cornsilk;
+    border-radius: 20px 20px;
+}
+h6:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 50px fuchsia;
+}
+.royal{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    position: relative;
+    bottom:200px;
+    margin-left: 40px;
+}
+img{
+    height: 200px;
+    width: 300px;
+    border: 3px solid lightsalmon;
+    border-radius: 20px 20px;
+}
+img:hover{
+      box-shadow:0 0 50px gold;
+      transform: scale(1.1);
+}
+.one{
+   position: absolute;
+   bottom: 100px;
+}
+.two{
+    position: absolute;
+     left: 500px;
+     bottom: 100px;
+
+
+}
+.three{
+    position: absolute;
+    left: 950px;
+    bottom: 100px;
+}
+.four{
+   position: absolute;
+    bottom: 600px;
+    top: 600px;
+
+}
+.five{
+   position: absolute;
+   left: 500px;
+   top: 600px;  
+}
+.six{
+    position: absolute;
+    left:950px;
+    top: 600px;
+}
+.saven{
+    position: absolute;
+    left:200px;
+    top: 925px;
+}
+.img{
+    position: absolute;
+    left: 700px;
+    top: 925px;
+}
+ 

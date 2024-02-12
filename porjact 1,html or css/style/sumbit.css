@@ -1,0 +1,107 @@
+li{
+
+    padding: 15px;
+    font-weight: bolder;
+    display: block; 
+    position: relative;
+    left: 60px;
+    font-size: 30px;
+    bottom:40px;
+    color:black;
+    font-family:mv boli;
+    text-shadow: 1px 1px slateblue;
+
+}
+li:hover{
+    background-color:turquoise;
+    box-shadow: 0 0 10px forestgreen;
+    width: 250px;
+    border-radius:20px 20px;
+    transform: scale(1.1);
+}
+h5{
+    position: relative;
+    left: 85px;
+    bottom: 20px;
+    font-size: 30px;
+    color:darkslateblue;
+    font-family: algerian;
+    text-shadow: 1px 1px black;
+    
+}
+h5:hover{
+    background-color: chocolate;
+    box-shadow: 0 0 10px darkblue;
+    width: 250px;
+    border-radius: 20px 20px;
+    padding-left: 20px;
+}
+.fa-facebook{
+    color: blue;
+}
+.fa-instagram{
+    color:palevioletred;
+}
+.fa-twitter{
+    color: skyblue;
+}
+.fa-square-youtube{
+    color: red;
+}
+.fa-user{
+    color: blue;
+
+}
+img{
+    height: 20%;
+    width: 20%;
+    position: absolute;
+    left: 820px;
+    bottom: 220px;
+    border: 2px solid indianred;
+}
+img:hover{
+    transform: scale(1.2);
+    box-shadow: 0 0 20px deeppink;
+}
+h6{
+    position: absolute;
+    left: 900px;
+    bottom: 320px;
+    font-size: 30px;
+    color: blueviolet;
+    text-shadow:1px 1px black;
+}
+h6:hover{
+    background-color: darkkhaki;
+    width:170px;
+    height: 40px;
+    box-shadow: 0 0 20px darkmagenta;
+    border-radius: 10px 10px;
+    padding-left: 20px;
+    text-shadow: 1px 1px silver;
+}
+h3{
+   text-align: center;
+   font-size: 30px;
+   font-family:noto sans; 
+   border: 2px solid springgreen;
+   width: 300px;
+   margin: auto;
+   background-color: palevioletred;
+   color: cornflowerblue;
+   text-shadow: 1px 1px darkslategray;
+   margin-top:30px ;
+   border-radius:20px 20px;
+}
+h3:hover{
+    background-color: lightsalmon;
+    box-shadow: 0 0 20px khaki;
+    transform: scale(1,2);
+
+}
+body{
+    background-image: url("https://cutewallpaper.org/21/rainbow-smoke-background/Rainbow-Smoke-On-A-Black-Background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

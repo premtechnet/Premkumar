@@ -1,0 +1,105 @@
+img{
+    height: 250px;
+    width: 300px;
+    border-radius: 20px 20px;
+    border: 2px solid whitesmoke;
+}
+img:hover{
+    border: 3px solid sienna;
+    border-radius: 10%;
+    box-shadow: 0 0 50px darkblue;
+}
+.one{
+    position: absolute;
+    top:250px;
+}
+.two{
+    position: absolute;
+    left: 500px;
+    top:250px;
+}
+.three{
+
+     position: absolute;
+     left: 950px;
+     top:250px;
+}
+.four{
+   position: absolute;
+   top:700px;
+   
+
+}
+.five{
+    position: absolute;
+    left:500px;
+    top:700px;
+}
+.six{
+     position: absolute;
+     left: 950px;
+     top:700px;
+}
+.saven{
+    position: absolute;
+    top:1150px;
+}
+.eight{
+    position: absolute;
+    left: 500px;
+    top: 1150px;
+}
+.nain{
+    position: absolute;
+    left: 950px;
+    top: 1120px;
+
+}
+.ten{
+   position: absolute;
+   top:1600px;
+   left: 500px; 
+}
+body{
+   background-image:url("https://images.hdqwalls.com/wallpapers/ducati-xdiavel-s-7e.jpg");
+   background-repeat:no-repeat;
+}
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    color:darkslategray;
+    border: 5px solid black;
+    position: relative;
+    width:400px;
+    left: 400px;
+    background-color:rosybrown;
+    border-radius: 20px 20px;
+    margin-left:50px;
+
+}
+h1:hover{
+    text-shadow: 2px 2px forestgreen;
+    background-color: cadetblue;
+    outline: 5px solid royalblue;
+    border-radius:20px 20px;
+    transform: scale(1.1);
+
+}
+h4{
+    font-size: 30px;
+    background-color:wheat;
+    color:darkslategrey;
+    position: relative;
+    width:310px;
+    padding-left: 70px;
+    border:2px solid darkslategrey;
+    border-radius: 50px 20px;
+    box-shadow: 0 0 8px darkgoldenrod;
+}
+h4:hover{
+    outline:3px solid darkslategrey;
+    color: navy;
+    background-color:silver;
+    border-radius:20px 20px;
+}

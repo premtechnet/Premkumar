@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20220523/pngtree-car-service-illustration-repair-auto-image_1394622.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1{
+    text-align: center;
+    text-shadow:2px 1px red ;
+    position: relative;
+    top: 100px;
+    font-size: 45px;
+    color: darkslategrey;  
+}
+h1:hover{
+    color:blue;
+    background-color:violet;
+    outline:2px solid wheat;
+    border-radius: 20px 20px;
+    box-shadow: 0 0 30px forestgreen;
+
+}
+a{
+    float: right;
+    text-decoration: none;
+    padding: 8px;
+    font-weight: bolder;
+    font-size: 25px;
+    border-radius: 20px 20px;
+    border: 3px solid darkorange;
+    background-color: darkcyan;
+    color: fuchsia;
+    text-shadow: 1px 1px royalblue;
+    margin-left: 20px;
+}
+a:hover{
+    background-color: darkviolet;
+    transform: scale(1.2);
+
+}
+img{
+    height: 100px;
+    width: 100px;
+    box-shadow: 0 0 20px slateblue;
+    position: relative;
+    bottom: 150px;
+    border-radius: 50%;
+    border:2px solid forestgreen;
+}
+img:hover{
+    rotate: 420deg;
+    transition-duration: 4s;
+    transform: scale(1.2);
+}

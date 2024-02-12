@@ -1,0 +1,76 @@
+body{
+    background-image:url("https://www.carlockdodgetupelo.com/static/dealer-23030/Why_Buy_Used_FCA.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    color:wheat;
+    border: 5px solid white;
+    width: 30%;
+    position: relative;
+    left: 35%;
+    background-color:rgb(6, 0, 6);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    border-radius:20px 20px;
+
+}
+h1:hover{
+    outline:10px solid salmon;
+}
+a{ 
+    float:right ;
+    text-decoration: none;
+    padding: 8px;
+    font-size: 20px;
+    color: cornflowerblue;
+    text-shadow: 1px 1px bisque;
+    border:1px solid black ;
+    font-weight: bolder;  
+    border-radius: 10%;
+    background-color: beige;
+    margin-right: 10px;
+    outline: 2px solid blue;
+    box-shadow: 0 0 20px  hotpink ;
+
+}
+ a:hover{
+    color:red;
+    background-color:slategray;
+    border: 5px solid slateblue;
+
+ }
+ p{
+    font-size: 35px;
+    font-weight: 10px;
+    color:black;
+    font-family: inherit;
+    text-shadow: 1px 1px silver;
+    position: relative;
+    top: 340px;
+ }
+ p:hover{
+    border: 2.5px solid orchid;
+    background-color: #1239;
+    border-radius: 20px 20px;
+    box-shadow: 0 0 50px #1038;
+ }
+ img{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    left: 50px;
+    bottom:230px;
+    box-shadow: 0 0 50px slateblue;
+    border-radius: 50%;
+    border: 2.5px solid wheat;
+    
+ }
+ img:hover{
+    rotate: 1000deg;
+    transition-duration: 10s;
+ }

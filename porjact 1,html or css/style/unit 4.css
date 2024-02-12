@@ -1,0 +1,79 @@
+img{
+    height: 400px;
+    width: 800px;
+    position: relative;
+    left: 220px;
+    border: 3px solid #04fb6b;
+    transition: 0.25s;
+    box-shadow: 0 0 50px red;
+}
+img:hover{
+    outline: 10px solid darkolivegreen;
+}
+h1{
+    text-align: center;
+    border: 5px solid khaki;
+    color:blueviolet;
+    width: 300px;
+    position: relative;
+    left: 490px;
+    background-color: #04fb6b;
+    
+}
+h1:hover{
+    outline: 5px solid forestgreen;
+    text-shadow: 1px 1px sienna;
+}
+.send{
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue;
+    text-shadow:1px 1px red ;
+}
+.send:hover{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+    color: firebrick;
+    text-shadow: 1px 1px darkgreen;
+}
+.fot{
+    position: relative;
+    right: 5px;
+    font-size: 25px;
+    color: turquoise;
+    text-shadow: 1px 1px sienna;
+
+}
+.fot:hover{
+    font-size: 40px;
+}
+ul{
+    font-size: 20px;
+    color: dodgerblue;
+    text-shadow: 1px 1px white;
+}
+ul:hover{
+    font-size: 40px;
+}
+body{
+    background-image: url("https://images.unsplash.com/photo-1529573813483-53bd9ede667e?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aGQlMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

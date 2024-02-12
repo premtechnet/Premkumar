@@ -1,0 +1,94 @@
+img{
+    width: 250px;
+    height: 200px;
+    border:2px solid #000;
+    border-radius: 10%;
+}
+img:hover{
+    box-shadow: 0 0 100px purple;
+    outline: 4px solid #8237;
+    rotate:500deg ;
+    transition: 5s;
+    transform: scale(1.2);
+    border-radius: 50%;
+}
+h1{
+    font-size: 27px;
+    border: 2px solid #345;
+    border-bottom-right-radius: 700%;
+    font-family: 'Courier New', Courier, monospace;
+    color:#3017;
+    background-color:#654; 
+}
+
+h1:hover{
+    outline: 2.5px solid pink;
+    box-shadow: 0 0 50px #654;
+    color: #990;
+    rotate: 10deg;
+}
+h5{
+    text-align: center;
+    font-size: 30px;
+    border: 2px solid #990;
+    width: 400px;
+    margin: auto;
+    border-radius: 20px 20px;
+    font-family:'Courier New', Courier, monospace;
+    color: purple;
+    background-color: #0987;
+
+}
+h5:hover{
+    outline:2px solid #345;
+    box-shadow:0 0 50px #729;
+    color: #000;
+}
+.one{
+    position: absolute;
+    top: 120px;
+    left: 50px;
+}
+.two{
+    position: absolute;
+    left: 505px;
+    bottom: 220px;
+}
+.three{
+    position: absolute;
+    left: 950px;
+    bottom: 210px;
+}
+.four{
+    position: absolute;
+    top:450px;
+    left: 50px;
+}
+.five{
+    position: absolute;
+    left: 505px;
+    top:450px ;
+}
+.six{
+    position: absolute;
+    left: 950px;
+    top: 450px;
+}
+.sevan{
+    position: absolute;
+    top: 850px;
+    left: 750px;
+}
+.eight{
+  position:absolute;
+  top: 845px;
+  left: 300px;
+
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/4b/0e/62/4b0e624238446cfeb3f1f8856f6e02a3.png");
+    background-repeat:no-repeat;
+    background-size: 120%;
+}
+
+ 
